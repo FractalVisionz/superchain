@@ -11,3 +11,12 @@ Within a dApp, you can leverage this contract for NFT drops, airdrops, claims wi
 Smart contract address
 
 Cybernetic Agents - 0x0D6cb531A95248Fd68A8c2d1705576596357c56A
+
+Block Explorer Links
+
+- [Base](https://base.blockscout.com/address/0x0D6cb531A95248Fd68A8c2d1705576596357c56A)
+- [Optimism](https://optimistic.etherscan.io/address/0x0D6cb531A95248Fd68A8c2d1705576596357c56A)
+- [Shape](https://shapescan.xyz/address/0x0D6cb531A95248Fd68A8c2d1705576596357c56A)
+- [Superseed](https://explorer-superseed-mainnet-0.t.conduit.xyz/address/0x0D6cb531A95248Fd68A8c2d1705576596357c56A)
+- [Soneium](https://soneium.blockscout.com/address/0x0D6cb531A95248Fd68A8c2d1705576596357c56A)
+- [Unichain](https://unichain.blockscout.com/address/0x0D6cb531A95248Fd68A8c2d1705576596357c56A)
